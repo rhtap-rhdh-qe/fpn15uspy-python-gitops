@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: fpn15uspy-python-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/fpn15uspy-python-gitops
